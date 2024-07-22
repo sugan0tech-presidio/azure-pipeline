@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "imF4PpD3vWysIiKYkSLKnRPypxMf1dpuxXiTw0EMRAY=",
+  "Source": "azure-pipeline",
+  "BasePath": "_content/azure-pipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@azure_pipeline_HostAddress = http://localhost:5029
+
+GET {{azure_pipeline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
