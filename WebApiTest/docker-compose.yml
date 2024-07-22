@@ -1,0 +1,6 @@
+﻿services:
+  webapitest:
+    image: webapitest
+    build:
+      context: .
+      dockerfile: Dockerfile
